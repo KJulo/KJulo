@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm from Chile 🇨🇱, Frontend Developer and currently working in <a href="https://icar.cl" target="_blank">Icar</a></p>
+<p align="left">I'm from Chile 🇨🇱, Frontend Developer and currently working in <a href="https://happlabs.cl" target="_blank">happ</a></p>
 
 ###
 
